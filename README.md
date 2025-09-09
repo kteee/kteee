@@ -19,6 +19,7 @@ Frontend
 
 ### 📫 Contact
 
-- 📝 [내 블로그](https://your-blog-url.com)  
-- 📧 your.email@example.com  
+> Email : kte02320@gmail.com
+> Blog : https://kteee.tistory.com/
+
 
