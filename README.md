@@ -1,11 +1,11 @@
-### ✨ About Me
+✨ **About Me**
 
 안녕하세요! 백엔드와 프론트엔드 모두에 관심이 있는 개발자입니다.  
 주로 Java, Node.js 백엔드와 React 기반 프론트엔드 개발을 공부하고 있습니다.
 
 ---
 
-### 💻 관심 기술
+💻 **관심 기술**
 
 Backend
 
@@ -17,9 +17,7 @@ Frontend
 
 ---
 
-### 📫 Contact
+📫 **Contact**
 
-> Email : kte02320@gmail.com
-> Blog : https://kteee.tistory.com/
-
-
+> Email : kte02320@gmail.com<br>
+> Blog : https://kteee.tistory.com
