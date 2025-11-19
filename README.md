@@ -1,17 +1,17 @@
 ### ✨ About Me
 
-안녕하세요! 백엔드와 프론트엔드 모두에 관심이 있는 개발자입니다.  
-주로 Java, Node.js 백엔드와 React 기반 프론트엔드 개발을 공부하고 있습니다.
+안녕하세요! 새로운 기술을 배우는 즐거움으로 성장하는 주니어 백엔드 개발자입니다.
 
 ---
 
-### 💻 관심 기술
+### 💻 기술 
 
-**Backend**
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-**Frontend**
+**DB**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
