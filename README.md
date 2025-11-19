@@ -5,7 +5,7 @@
 ---
 ### 💻 Skills
 
-**Languages**
+**Language**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
