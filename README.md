@@ -4,19 +4,19 @@
 
 ---
 
-**Languages**
+💻 **Languages**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
 
-**DB**
+⚙️ **DB**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
 
 ---
 
-### 📫 Contact
+📫 **Contact**
 
 > Email : kte02320@gmail.com<br>
 > Blog : https://kteee.tistory.com
