@@ -13,11 +13,10 @@
 **DB**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
 
 ---
 
 ### 📫 Contact
 
 > Email : kte02320@gmail.com<br>
-> Blog : https://kteee.tistory.com
+> Blog : -
